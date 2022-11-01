@@ -1,2 +1,2 @@
-# repawsitory-da-nya
-repository for studying da nya
+# repository
+repository for studying
